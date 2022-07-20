@@ -1,0 +1,9 @@
+D:\NewGRPC\WPFClient\bin\publish\WPFClient.pdb
+D:\NewGRPC\WPFClient\bin\publish\WPFClient.dll.config
+D:\NewGRPC\WPFClient\bin\publish\D3DCompiler_47_cor3.dll
+D:\NewGRPC\WPFClient\bin\publish\PenImc_cor3.dll
+D:\NewGRPC\WPFClient\bin\publish\PresentationNative_cor3.dll
+D:\NewGRPC\WPFClient\bin\publish\vcruntime140_cor3.dll
+D:\NewGRPC\WPFClient\bin\publish\wpfgfx_cor3.dll
+D:\NewGRPC\WPFClient\bin\publish\SharedProject.pdb
+D:\NewGRPC\WPFClient\bin\publish\WPFClient.exe

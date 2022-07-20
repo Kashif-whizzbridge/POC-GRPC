@@ -1,0 +1,2 @@
+obj\aa\net6.0\Protos/SxPlastiqueInterCom.cs \
+obj\aa\net6.0\Protos/SxPlastiqueInterComGrpc.cs: Protos/SxPlastiqueInterCom.proto

@@ -1,0 +1,2 @@
+obj\aa\net6.0\Protos/Ping.cs \
+obj\aa\net6.0\Protos/PingGrpc.cs: Protos/ping.proto

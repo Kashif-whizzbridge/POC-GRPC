@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mYGKNdgpOKPRg8/g/R38gX17g+V1eohd+xHcNNfog3pm4BGKOk7BMdZF3hO8sraxJJGKYP9bqkedeLzoVkfxg==",
+  "success": true,
+  "projectFilePath": "D:\\NewGRPC\\SharedProject\\SharedProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\google.protobuf\\3.21.2\\google.protobuf.3.21.2.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\grpc.core.api\\2.47.0\\grpc.core.api.2.47.0.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\grpc.net.client\\2.47.0\\grpc.net.client.2.47.0.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\grpc.net.common\\2.47.0\\grpc.net.common.2.47.0.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\grpc.tools\\2.47.0\\grpc.tools.2.47.0.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.6\\microsoft.netcore.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\HS LAPTOP\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.6\\microsoft.aspnetcore.app.runtime.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

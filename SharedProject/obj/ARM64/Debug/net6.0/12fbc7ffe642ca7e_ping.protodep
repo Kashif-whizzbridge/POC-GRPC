@@ -1,0 +1,2 @@
+obj\ARM64\Debug\net6.0\Protos/Ping.cs \
+obj\ARM64\Debug\net6.0\Protos/PingGrpc.cs: Protos/ping.proto

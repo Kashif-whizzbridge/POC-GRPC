@@ -1,0 +1,2 @@
+obj\ARM64\Debug\net6.0\Protos/SxPlastiqueInterCom.cs \
+obj\ARM64\Debug\net6.0\Protos/SxPlastiqueInterComGrpc.cs: Protos/SxPlastiqueInterCom.proto
